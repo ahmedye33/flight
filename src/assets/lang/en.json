@@ -1,0 +1,26 @@
+{
+  "header": "Header app component",
+  "footer": "Footer app component",
+  "pageNotFound": "PAGE NOT FOUND",
+
+  "flightSearchPage": {
+    "return": "Return",
+    "oneWay": "One Way",
+    "departureAirportCode": "Departure Airport Code",
+    "arrivalAirportCode": "Arrival Airport Code",
+    "departureDate": "Departure Date",
+    "returnDate": "Return Date",
+    "search": "Search",
+    "logo": "Logo",
+    "airlineName": "Airline Name",
+    "outboundFlightsDuration": "Outbound Flights Duration",
+    "inboundFlightsDuration": "Inbound Flights Duration",
+    "totalAmount": "Total Amount"
+  },
+
+  "errorMsg": {
+    "airportCodeRequired": "Airport Code is required (3 Characters)",
+    "dateRequired": "Date is required",
+    "returnShouldBeAfterDeparture": "Return date should be after departure date"
+  }
+}
